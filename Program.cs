@@ -9,7 +9,7 @@
             employee1.LastName = "Yesan";
             employee1.BasicSalary = 50000.00;
 
-            Print(employee1.FirstName,employee1.LastName,employee1.BasicSalary);
+            Employee.Print("akila","yesan",50000.00);
 
 
         }
